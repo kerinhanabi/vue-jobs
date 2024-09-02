@@ -1,7 +1,0 @@
-{
-    "jobs":[
-        { "title": "Db UX Designer", "id": "1", "details": "lorem 1" },
-        { "title": "Db Web Developer", "id": "2", "details": "lorem 2" },
-        { "title": "Db Vue Developer", "id": "3", "details": "lorem 3" }
-    ]
-}
